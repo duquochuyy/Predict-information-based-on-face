@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.divBtn {
+}
+
+.divVideo {
+  position: relative;
+}
+
+video {
+  /* position: absolute; */
+}
+
+canvas {
+  position: absolute;
+}
